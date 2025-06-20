@@ -9,6 +9,8 @@
 
 - Frontend: React + Vite — interface web moderna e responsiva
 
+- Tailwindcss: Primeira ultilização 
+
 ## Funcionalidades
 
 ### Cardápio:
